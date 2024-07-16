@@ -1,0 +1,56 @@
+[{
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f2"
+    },
+    "nama": "kaosbiru",
+    "deskripsi": "tebal 20s",
+    "harga": 50000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f3"
+    },
+    "nama": "kaosmerah",
+    "deskripsi": "tebal 16s",
+    "harga": 70000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f4"
+    },
+    "nama": "kaosputih",
+    "deskripsi": "tebal 30s",
+    "harga": 40000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f5"
+    },
+    "nama": "kaoshitam",
+    "deskripsi": "tebal 24s",
+    "harga": 150000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f6"
+    },
+    "nama": "kaoskuning",
+    "deskripsi": "tebal 32s",
+    "harga": 5000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f7"
+    },
+    "nama": "kaoshijau",
+    "deskripsi": "tebal 34s",
+    "harga": 24000
+  },
+  {
+    "_id": {
+      "$oid": "66951c8610dfac05704f00f8"
+    },
+    "nama": "kaosabuabu",
+    "deskripsi": "tebal 14s",
+    "harga": 500
+  }]
